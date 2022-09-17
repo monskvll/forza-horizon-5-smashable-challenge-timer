@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#timer {
+    margin-top: 10rem;
+    font-size: 20rem;
+}
+
+#description {
+    letter-spacing: 0.25rem;
+    font-size: 2rem;
+}
